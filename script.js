@@ -1,0 +1,1 @@
+const musicContainer = document.querySelector('.music-conatiner');
